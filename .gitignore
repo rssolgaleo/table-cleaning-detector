@@ -1,0 +1,5 @@
+videos/
+output.mp4
+report.txt
+*.pt
+__pycache__/
